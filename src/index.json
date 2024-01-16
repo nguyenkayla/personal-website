@@ -1,0 +1,55 @@
+{
+    "skills": [
+        {
+            "id": "1",
+            "src": "./img/feather-pen-1.png",
+            "title": "Front-End",
+            "description": "I have experience in programming in HTML/CSS and JavaScript while utilizing the JavaScript libraries, such as React. I partaked in the Girls Who Code Immersion Program that focused on website development."
+        },
+
+        {
+            "id": "2",
+            "src": "./img/product-chain-1.png",
+            "title": "Back-End",
+            "description": "I am knowledgable in data structures and algorithms and how they operate. I have applied this through coding in several programming languages such as C, Java, and Python."
+        },
+
+        {
+            "id": "3",
+            "src": "./img/feather-pen-2.png",
+            "title": "UI & UX Design",
+            "description": "I have a passion for creating organized and beautiful interfaces in order to be more accessible and interactive. My main programs for designing are Figma and Canva."
+        },
+
+        {
+            "id": "4",
+            "src": "./img/tag-1.png",
+            "title": "Network Security",
+            "description": "In high school, I enrolled in the IT Services program where I learned networking and cybersecurity. Through my time, I earned industry certifications, received awards from the NCWIT, and worked as a help desk intern."
+        }
+    ],
+
+    "portfolio": [
+        {
+            "id": "1",
+            "src": "./img/1.png",
+            "title": "Self-Driving Robot",
+            "description": "Built a functioning robot equipped with a Raspberry Pi to capture images for the purpose of detecting incoming signs in my Robotics class."
+        },
+
+        {
+            "id": "2",
+            "src": "./img/2.png",
+            "title": "Protect Trans Lives",
+            "description": "Developed my activist website providing statistics, resources, and support about the violence towards transgender people."
+        },
+
+        {
+            "id": "3",
+            "src": "./img/3.png",
+            "title": "Snake",
+            "description": "Programmed a Snake clone where I utilized for key presses to move, store the snake's segments in an array, and checked collisions and out of bounds."
+        }
+        
+    ]
+}
