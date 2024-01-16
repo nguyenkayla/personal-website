@@ -22,7 +22,7 @@ export default function HeroSection() {
                 </a>
             </div>
             <div className="hero--section--img">
-                <img src=".public/img/hero.png" alt="Hero Selection"></img>
+                <img src="./img/hero.png" alt="Hero Selection"></img>
             </div>
         </section>
     );
