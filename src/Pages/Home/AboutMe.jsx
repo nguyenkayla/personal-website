@@ -13,7 +13,7 @@ export default function AboutMe() {
                         I am a first-gen Vietnamese-American college student passionate for creating innovative solutions through technology to foster positive change and to make a meaningful impact on the world.
                     </p>
                     <p className="hero--section-description">
-                        After participating in numerous summer coding camps throughout high school, I knew that computer science was my passion. I hope to apply my love for problem solving and researching in an internship this summer focused on software engineering and designing.
+                         I recently worked as a Research Programmer Intern at Boston Fusion, where I helped enhance operational analysis tools and conducted research to improve classification and visual understanding. I have also gained hands-on experience in IT support and customer service through roles at Essex North Shore School and Old Navy. At UMass, I serve as the Public Relations Chair for the Vietnamese Students Association, where I design graphics, manage social media outreach, and organize cultural events.
                     </p>
                 </div>
             </div>
