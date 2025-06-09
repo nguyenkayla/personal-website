@@ -10,7 +10,8 @@ export default function HeroSection() {
                 Developer
                 </h2>
                         <p className="hero--section-description">
-                            I am a current senior at the University of Massachusetts Amherst majoring in Computer Science (2026). I am passionate about expanding my knowledge in CS, expecially in front-end development.
+                            I am a senior at the University of Massachusetts Amherst majoring in Computer Science and minoring in Geography, graduating in 2026. I am passionate about building real-world applications that draw on my knowledge of data science and research.
+
                             
                         </p>
                         <p className="hero--section-description">
