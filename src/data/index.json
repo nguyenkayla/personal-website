@@ -11,7 +11,7 @@
             "id": "2",
             "src": "./img/product-chain-1.png",
             "title": "Data Science",
-            "description": "I have developed a strong foundation in data science through my coursework and projects. I enjoy uncovering insights from data using statistical and machine learning techniques."
+            "description": "I have developed a strong foundation in data science through my coursework and projects. I enjoy gaining insights from data using statistical and machine learning techniques."
 
         },
 
@@ -19,14 +19,14 @@
             "id": "3",
             "src": "./img/feather-pen-2.png",
             "title": "UI & UX Design",
-            "description": "I have a passion for creating organized and beautiful interfaces in order to be more accessible and interactive. My main programs for designing are Figma and Canva."
+            "description": "I have a passion for creating organized and beautiful interfaces to be more accessible and interactive. My main programs for designing are Figma and Canva."
         },
 
         {
             "id": "4",
             "src": "./img/tag-1.png",
             "title": "Network Security",
-            "description": "In high school, I enrolled in the IT Services program where I learned networking and cybersecurity. Through my time, I earned industry certifications, received awards from the NCWIT, and worked as a help desk intern."
+            "description": "In high school, I enrolled in the IT Services program, where I learned networking and cybersecurity. Through my time, I earned industry certifications, received NCWIT awards, and worked as a Help Desk Intern."
         }
     ],
 
