@@ -3,15 +3,16 @@
         {
             "id": "1",
             "src": "./img/feather-pen-1.png",
-            "title": "Front-End",
-            "description": "I have experience in programming in HTML/CSS and JavaScript while utilizing the JavaScript libraries, such as React. I partaked in the Girls Who Code Immersion Program that focused on website development."
+            "title": "AI/ML Research",
+            "description": "I have experience in conducting research with large language models to refine classification output and detect hallucinations. I am able to work with complex multimodal datasets."
         },
 
         {
             "id": "2",
             "src": "./img/product-chain-1.png",
-            "title": "Back-End",
-            "description": "I am knowledgable in data structures and algorithms and how they operate. I have applied this through coding in several programming languages such as C, Java, and Python."
+            "title": "Data Science",
+            "description": "I have developed a strong foundation in data science through my coursework and projects. I enjoy uncovering insights from data using statistical and machine learning techniques."
+
         },
 
         {
